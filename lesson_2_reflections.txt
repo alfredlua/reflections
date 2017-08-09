@@ -25,3 +25,8 @@ The diagrams show me where the branches are formed and which commits are on each
 
 We'll get all the changes made on the two branches.
 We represent it that way because the master branch now contains commits from both branches.
+
+# What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros: Saves time 
+Cons: When there is a conflict, Git might not known how to resolve it (or which code to include)
