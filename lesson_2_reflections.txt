@@ -6,4 +6,8 @@ When I initialize a repository, I create a git file in the repository so that gi
 
 The staging area includes only the files I want to add to a commit while the working directory contains all the files and the repository contains all the files, their history, and my commits.
 
-It allows me to choose which files I want to include in a commit to make sure each commit are logically separated. 
+It allows me to choose which files I want to include in a commit to make sure each commit has one logical change only. 
+
+# How can you use the staging area to make sure you have one commit per logical change?
+
+I can add only the files for the logical change into the staging area and commit only those files.
