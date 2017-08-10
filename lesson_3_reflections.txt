@@ -16,6 +16,12 @@ Branches are for adding a new commit to a git locally.
 
 So that I can copy my local version with the remote even when I'm offline.
 
+# How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I could use file sharing applications but that could be messy.
+Also, some applications don't save my revision history or cannot work offline.
+I guess merging would be challenging, too. 
+
 Commands:
 
 git remote  |    Show all remote locations for the repository
