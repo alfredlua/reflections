@@ -25,3 +25,5 @@ git push origin master  |    Push the master branch to the remote location origi
 git pull origin master  |    Get the master branch from the remote location origin.
 git pull origin master  |    = Git fetch origin + git merge master origin/master
 git fetch origin  |    Get the changes from the remote location into the (hidden?) origin/master branch
+
+Taken from https://github.com/Denyos/reflections/blob/master/lesson_3_reflections.txt
