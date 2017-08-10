@@ -11,3 +11,7 @@ That's because I might be working on something locally and automatically updatin
 Forks are for cloning a project from GitHub to GitHub
 Clones are for copying a project from GitHub to local or local to local.
 Branches are for adding a new commit to a git locally. 
+
+# What is the benefit of having a copy of the last known state of the remote stored locally?
+
+So that I can copy my local version with the remote even when I'm offline.
