@@ -22,6 +22,13 @@ I could use file sharing applications but that could be messy.
 Also, some applications don't save my revision history or cannot work offline.
 I guess merging would be challenging, too. 
 
+# When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+I'll make changes in a separate branch when I'm experimenting with an idea or when I want someone else to check my work before merging
+it with the master branch.
+This way, things are clearer and my teammates can look at my pull request and give feedback. If I add to the master branch directly,
+I won't be able to get the feedback or comments.
+
 Commands:
 
 git remote  |    Show all remote locations for the repository
